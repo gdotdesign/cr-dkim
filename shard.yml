@@ -1,0 +1,13 @@
+name: dkim
+version: 0.1.0
+
+authors:
+  - Gusztav Szikszai <guszti5@hotmail.com>
+
+crystal: 0.29.0
+
+license: MIT
+
+dependencies:
+  openssl_ext:
+    github: randomstate/openssl_ext
