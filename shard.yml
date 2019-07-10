@@ -10,4 +10,5 @@ license: MIT
 
 dependencies:
   openssl_ext:
-    github: randomstate/openssl_ext
+    github: noellabo/openssl_ext
+
