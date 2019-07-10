@@ -11,4 +11,4 @@ license: MIT
 dependencies:
   openssl_ext:
     github: noellabo/openssl_ext
-
+    branch: fix-slice#pointer-removed-in-crystal-v0.29.0-to-#to_unsafe
